@@ -8,7 +8,7 @@ namespace buscar_matris_numero_menor
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args)//muy bueno
         {
             int[,] matris = new int[4,4];
             int[] sumaMenor= new int[4];
